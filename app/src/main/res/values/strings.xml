@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Event Listener Anonymous Inner Class</string>
+    <string name="button_small">Small Text</string>
+    <string name="button_large">Large Text</string>
+</resources>
